@@ -7,9 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jmangion98/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jmangion98/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Inspecting Network Traffic in Azure](https://github.com/jmangion98/configure-ad)
-  - [Understanding DNS in Azure](https://github.com/jmangion98/azure-network-protocols)
-  - [Understanding File Permissions](https://github.com/jmangion98/azure-network-protocols)
+  - [Inspecting Network Traffic in Azure](https://github.com/jmangion98/inspect-traffic)
+  - [Understanding DNS in Azure](https://github.com/jmangion98/azure-understand-dns)
+  - [Understanding File Permissions](https://github.com/jmangion98/file-permissions)
  
 - <b>Active Directory</b>
   - [Preparing Infrastructure in Azure](https://github.com/jmangion98/configure-ad)
