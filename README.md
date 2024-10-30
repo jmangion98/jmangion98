@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jmangion98/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jmangion98/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/ErnestoAPantoja/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jmangion98/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/jmangion98/configure-ad)
