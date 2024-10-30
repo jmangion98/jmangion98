@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jmangion98/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/jmangion98/inspect-traffic)
-  - [Understanding DNS in Azure](https://github.com/jmangion98/azure-understand-dns)
+  - [Understanding DNS in Azure](https://github.com/jmangion98/understand-dns)
   - [Understanding File Permissions](https://github.com/jmangion98/file-permissions)
  
 - <b>Active Directory</b>
