@@ -13,9 +13,8 @@
  
 - <b>Active Directory</b>
   - [Preparing Infrastructure in Azure](https://github.com/jmangion98/preparing-AD-infrastructure)
-  - [Deploying Active Directory in Azure](https://github.com/jmangion98/azure-network-protocols)
-  - [Creating Users, Group Policy and Managing Accounts in Azure ](https://github.com/jmangion98/azure-network-protocols)
-    
+  - [Deploying Active Directory in Azure](https://github.com/jmangion98/deploy-AD)
+  - [Creating Users, Group Policy and Managing Accounts in Azure ](https://github.com/jmangion98/create-users-GP-manage-account)
 
 <h2>🤳Connect with me:</h2>
 <img align="left" alt="Jordan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
