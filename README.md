@@ -12,7 +12,7 @@
   - [Understanding File Permissions](https://github.com/jmangion98/file-permissions)
  
 - <b>Active Directory</b>
-  - [Preparing Infrastructure in Azure](https://github.com/jmangion98/configure-ad)
+  - [Preparing Infrastructure in Azure](https://github.com/jmangion98/preparing-AD-infrastructure)
   - [Deploying Active Directory in Azure](https://github.com/jmangion98/azure-network-protocols)
   - [Creating Users, Group Policy and Managing Accounts in Azure ](https://github.com/jmangion98/azure-network-protocols)
     
